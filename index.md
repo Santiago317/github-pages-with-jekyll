@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+Examen AIDII
 ---
 
-I'm glad you are here. I plan to talk about ...
+Ruben Santiago Gamboa Moguel
